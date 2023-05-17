@@ -1,0 +1,36 @@
+a{
+    text-decoration: none;
+}
+
+.color-1{
+    color: #DB3713;
+}
+
+.color-2{
+    color: #32AFD7;
+}
+
+.bg-1{
+    background: rgb(233, 159, 98, .2);
+}
+
+.bg-2{
+    background: #DB3713;
+}
+.bg-3{
+    background: #32AFD7;
+}
+
+.glass-bg{
+    background: rgb(50, 50, 50, .5);
+}
+
+.conditions{
+    width: 100%;
+}
+
+.main-block{
+    background-image: url('../content/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
